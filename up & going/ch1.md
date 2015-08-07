@@ -1,7 +1,7 @@
 # You Don't Know JS: Up & Going
 # Chapter 1: Into Programming
 
-Welcome to the *You Don't Know JS* (*YDKJS*) series.
+Öncelikle hoşgeldiniz *Sen JavaScript Bilmiyorsun*  "*You Don't Know JS* (*YDKJS*)" serisine.
 
 *Up & Going* is an introduction to several basic concepts of programming -- of course we lean toward JavaScript (often abbreviated JS) specifically -- and how to approach and understand the rest of the titles in this series. Especially if you're just getting into programming and/or JavaScript, this book will briefly explore what you need to get *up and going*.
 
@@ -13,7 +13,7 @@ Once you feel comfortable with general programming basics, Chapter 2 will help g
 
 If you're already fairly comfortable with JavaScript, first check out Chapter 3 as a brief glimpse of what to expect from *YDKJS*, then jump right in!
 
-## Kode
+## Kod
 
 Hadi en başından başlayalım.
 
