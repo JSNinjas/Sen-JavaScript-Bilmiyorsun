@@ -13,9 +13,9 @@ Once you feel comfortable with general programming basics, Chapter 2 will help g
 
 If you're already fairly comfortable with JavaScript, first check out Chapter 3 as a brief glimpse of what to expect from *YDKJS*, then jump right in!
 
-## Code
+## Kode
 
-Let's start from the beginning.
+Hadi en başından başlayalım.
 
 A program, often referred to as *source code* or just *code*, is a set of special instructions to tell the computer what tasks to perform. Usually code is saved in a text file, although with JavaScript you can also type code directly into a developer console in a browser, which we'll cover shortly.
 
