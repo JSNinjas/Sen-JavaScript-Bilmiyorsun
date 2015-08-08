@@ -1,5 +1,5 @@
 # You Don't Know JS: Up & Going
-# Chapter 1: Into Programming
+# Bölüm 1: Programlamaya Giriş
 
 Welcome to the *You Don't Know JS* (*YDKJS*) series.
 
