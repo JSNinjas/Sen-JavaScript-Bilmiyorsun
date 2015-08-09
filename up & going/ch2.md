@@ -1,5 +1,5 @@
 # You Don't Know JS: Up & Going
-# Chapter 2: Into JavaScript
+# Bölüm 2: JavaScript'e Giriş
 
 In the previous chapter, I introduced the basic building blocks of programming, such as variables, loops, conditionals, and functions. Of course, all the code shown has been in JavaScript. But in this chapter, we want to focus specifically on things you need to know about JavaScript to get up and going as a JS developer.
 
@@ -11,7 +11,7 @@ Your journey to deeply learn JavaScript starts here.
 
 **Note:** As I said in Chapter 1, you should definitely try all this code yourself as you read and work through this chapter. Be aware that some of the code here assumes capabilities introduced in the newest version of JavaScript at the time of this writing (commonly referred to as "ES6" for the 6th edition of ECMAScript -- the official name of the JS specification). If you happen to be using an older, pre-ES6 browser, the code may not work. A recent update of a modern browser (like Chrome, Firefox, or IE) should be used.
 
-## Values & Types
+## Values & Tipler
 
 As we asserted in Chapter 1, JavaScript has typed values, not typed variables. The following built-in types are available:
 
