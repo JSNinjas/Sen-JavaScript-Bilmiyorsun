@@ -1,7 +1,9 @@
 # You Don't Know JS: Up & Going
 # Bölüm 2: JavaScript'e Giriş
 
-In the previous chapter, I introduced the basic building blocks of programming, such as variables, loops, conditionals, and functions. Of course, all the code shown has been in JavaScript. But in this chapter, we want to focus specifically on things you need to know about JavaScript to get up and going as a JS developer.
+ the previous chapter, I introduced the basic building blocks of programming, such as variables, loops, conditionals, and functions. Of course, all the code shown has been in JavaScript. But in this chapter, we want to focus specifically on things you need to know about JavaScript to get up and going as a JS developer.
+
+Bir önceki bölümde, Sizlere bazı değişkenler, döngüler, Koşullamalar ve fonksiyonlar gibi programlamanın temel yapı taşlarını tanıttı. Tabii ki, gösterilen tüm kodu JavaScript olmuştur. Fakat bu bölümde, odaklanmak istediğimiz bir JavaScript bilmenizle beraber artık JS developer olmaya başlayabileceğiniz.
 
 We will introduce quite a few concepts in this chapter that will not be fully explored until subsequent *YDKJS* books. You can think of this chapter as an overview of the topics covered in detail throughout the rest of this series.
 
@@ -11,9 +13,10 @@ Your journey to deeply learn JavaScript starts here.
 
 **Note:** As I said in Chapter 1, you should definitely try all this code yourself as you read and work through this chapter. Be aware that some of the code here assumes capabilities introduced in the newest version of JavaScript at the time of this writing (commonly referred to as "ES6" for the 6th edition of ECMAScript -- the official name of the JS specification). If you happen to be using an older, pre-ES6 browser, the code may not work. A recent update of a modern browser (like Chrome, Firefox, or IE) should be used.
 
-## Values & Tipler
+## Değerler & Tipler
 
 As we asserted in Chapter 1, JavaScript has typed values, not typed variables. The following built-in types are available:
+Birincei bölümde söylediğimiz gibi, JavaScript yazım tipleri değil, yazdığınız değişkenler yazmamıştır.Aşağıdaki yerleşik değişkenler mevcuttur.
 
 * `string`
 * `number`
@@ -23,10 +26,11 @@ As we asserted in Chapter 1, JavaScript has typed values, not typed variables. T
 * `symbol` (new to ES6)
 
 JavaScript provides a `typeof` operator that can examine a value and tell you what type it is:
+JavaScriptin sağladığı bir operasyon olarakn `typeof` bize değerimizin hangi tipten olduğunu gösterir.
 
 ```js
 var a;
-typeof a;				// "undefined"
+typeof a;				// "undefined"  "bilinmeyen"
 
 a = "hello world";
 typeof a;				// "string"
