@@ -16,7 +16,7 @@ Your journey to deeply learn JavaScript starts here.
 ## Değerler & Tipler
 
 As we asserted in Chapter 1, JavaScript has typed values, not typed variables. The following built-in types are available:
-Birincei bölümde söylediğimiz gibi, JavaScript yazım tipleri değil, yazdığınız değişkenler yazmamıştır.Aşağıdaki yerleşik değişkenler mevcuttur.
+Birinci bölümde söylediğimiz gibi, JavaScript yazım tipleri değil, yazdığınız değişkenler yazmamıştır.Aşağıdaki yerleşik değişkenler mevcuttur.
 
 * `string`
 * `number`
